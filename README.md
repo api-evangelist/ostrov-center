@@ -1,4 +1,4 @@
-# ostrov-center
+# Ретритный центр «Остров»
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ostrov-center is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ostrov.center/
+Ретритный центр «Остров» — пространство на острове Кильпола в Карелии, у берегов Ладожского озера. Центр предлагает ретриты, йога‑туры, семинары с проживанием и вегетарианским питанием, а также программы резидентства и волонтёрства. Здесь можно организовать собственную программу, присоединиться к расписанию мероприятий или просто отдохнуть в уединённой природной обстановке, получая поддержку команды центра.
+
+**Areas:** Retreat · Yoga · Wellness · Russia · Karjala
+
+## Ретритный центр «Остров» on APIs.io
+
+Everything profiled for Ретритный центр «Остров» is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ostrov-center/](https://apis.io/providers/ostrov-center/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Ретритный центр «Остров» Access.md API](https://apis.io/apis/ostrov-center/ostrov-center-access-md-api/) — The Access.md API from Ретритный центр «Остров» — 1 operation(s) for access.md.
+- [Ретритный центр «Остров» Applications API](https://apis.io/apis/ostrov-center/ostrov-center-applications-api/) — The Applications API from Ретритный центр «Остров» — 1 operation(s) for applications.
+- [Ретритный центр «Остров» Calendar API](https://apis.io/apis/ostrov-center/ostrov-center-calendar-api/) — The Calendar API from Ретритный центр «Остров» — 1 operation(s) for calendar.
+- [Ретритный центр «Остров» Catalog API](https://apis.io/apis/ostrov-center/ostrov-center-catalog-api/) — The Catalog API from Ретритный центр «Остров» — 1 operation(s) for catalog.
+- [Ретритный центр «Остров» Center API](https://apis.io/apis/ostrov-center/ostrov-center-center-api/) — The Center API from Ретритный центр «Остров» — 1 operation(s) for center.
+- [Ретритный центр «Остров» Estimates API](https://apis.io/apis/ostrov-center/ostrov-center-estimates-api/) — The Estimates API from Ретритный центр «Остров» — 4 operation(s) for estimates.
+- [Ретритный центр «Остров» Events API](https://apis.io/apis/ostrov-center/ostrov-center-events-api/) — The Events API from Ретритный центр «Остров» — 1 operation(s) for events.
+- [Ретритный центр «Остров» Examples API](https://apis.io/apis/ostrov-center/ostrov-center-examples-api/) — The Examples API from Ретритный центр «Остров» — 1 operation(s) for examples.
+- [Ретритный центр «Остров» Objects API](https://apis.io/apis/ostrov-center/ostrov-center-objects-api/) — The Objects API from Ретритный центр «Остров» — 1 operation(s) for objects.
+- [Ретритный центр «Остров» Openapi.json API](https://apis.io/apis/ostrov-center/ostrov-center-openapi-json-api/) — The Openapi.json API from Ретритный центр «Остров» — 1 operation(s) for openapi.json.
+- [Ретритный центр «Остров» Quickstart.md API](https://apis.io/apis/ostrov-center/ostrov-center-quickstart-md-api/) — The Quickstart.md API from Ретритный центр «Остров» — 1 operation(s) for quickstart.md.
+- [Ретритный центр «Остров» Quotes API](https://apis.io/apis/ostrov-center/ostrov-center-quotes-api/) — The Quotes API from Ретритный центр «Остров» — 1 operation(s) for quotes.
+- [Ретритный центр «Остров» Readme.md API](https://apis.io/apis/ostrov-center/ostrov-center-readme-md-api/) — The Readme.md API from Ретритный центр «Остров» — 1 operation(s) for readme.md.
+- [Ретритный центр «Остров» Sessions API](https://apis.io/apis/ostrov-center/ostrov-center-sessions-api/) — The Sessions API from Ретритный центр «Остров» — 2 operation(s) for sessions.
+- [Ретритный центр «Остров» Skill.md API](https://apis.io/apis/ostrov-center/ostrov-center-skill-md-api/) — The Skill.md API from Ретритный центр «Остров» — 1 operation(s) for skill.md.
+- [Ретритный центр «Остров» Suggestions API](https://apis.io/apis/ostrov-center/ostrov-center-suggestions-api/) — The Suggestions API from Ретритный центр «Остров» — 1 operation(s) for suggestions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ретритный центр «Остров» Agentic Access](https://apis.io/agentic-access/ostrov-center/ostrov-center-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Estimate](https://apis.io/schemas/ostrov-center/ostrov-center-estimate/)
+- [GroupPlan](https://apis.io/schemas/ostrov-center/ostrov-center-group-plan/)
+- [QuoteDetail](https://apis.io/schemas/ostrov-center/ostrov-center-quote-detail/)
+- [Resource](https://apis.io/schemas/ostrov-center/ostrov-center-resource/)
+- [SaveEstimateRequest](https://apis.io/schemas/ostrov-center/ostrov-center-save-estimate-request/)
+- [SubmitApplicationRequest](https://apis.io/schemas/ostrov-center/ostrov-center-submit-application-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ostrov Center Context](https://apis.io/jsonld/ostrov-center/ostrov-center-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ретритный центр «Остров» API Rules](https://apis.io/rules/ostrov-center/ostrov-center-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ретритный центр «Остров» Authentication](https://apis.io/security/ostrov-center/ostrov-center-authentication/)
+- [Ретритный центр «Остров» Domain Security](https://apis.io/security/ostrov-center/ostrov-center-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ретритный центр «Остров» Plans Pricing](https://apis.io/plans/ostrov-center/ostrov-center-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ostrov.center/)
+- [API reference](https://ostrov.center/developers)
+- [Terms of service](https://ostrov.center/terms-of-service)
+- [Privacy policy](https://ostrov.center/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 42.1** — developing · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 40.0 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ostrov-center/](https://apis.io/providers/ostrov-center/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ретритный центр «Остров»: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ostrov-center/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
